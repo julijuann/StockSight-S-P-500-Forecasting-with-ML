@@ -1,5 +1,8 @@
 # StockSight-S&P-500-Forecasting-with-ML
 
+## Link to DeepNote:
+https://deepnote.com/app/finance-analytics-baea/SandP-500-2025-Price-Prediction-c31fb9f0-7460-4d9d-9ae7-97ff771c6453
+
 ## Project Overview
 This project aims to predict the S&P 500 index for 2025 using machine learning techniques. We are:
 
